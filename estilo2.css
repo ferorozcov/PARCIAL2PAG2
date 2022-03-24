@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Josefin+Sans:wght@500&family=PT+Sans:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Josefin+Sans:wght@500&family=Lobster&family=PT+Sans:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif&family=PT+Sans:ital@1&family=Questrial&display=swap');
+
+
+body {
+    background-color: #9c9491;
+   }
+
+   h1 {
+    color: rgb(85, 73, 61);
+    background-image: url("textura2.jpg");
+    font-family: 'Josefin Sans', sans-serif;
+	font-size: 50px;
+    background-size: 10px 1px 1px 1px;
+    margin: 10px ;
+    border-style: double;
+    border-width: 10px;
+    border-color: #3c2a20;
+    padding: 25px;
+    border-radius: 15px;
+    text-decoration:underline;
+    line-height: 1.8;
+    text-shadow: 2px 2px rgb(196, 190, 182); /*2px de sombra horizontal y vertical*/
+    /*text-shadow: 2px 2px 5px red; /* efecto de 5px de desenfoque */ 
+}
+
+table{
+    border-color: #3c2a20;
+}   
+
+tr{
+    font-family: 'Questrial', sans-serif;
+    font-size: 18px;
+    color: rgb(43, 34, 27);
+    background-color: rgb(126, 111, 102);
+    text-align: center;
+}
+
+a{
+    background-color: rgb(83, 68, 46);
+    font-family: 'Questrial', sans-serif;
+    font-size: 20px;
+    color: rgb(196, 184, 177);
+    text-decoration: none;
+    margin: 10px ;
+    border-style: double;
+    border-width: 10px;
+    border-color: rgb(161, 152, 140);
+    padding: 25px;
+    border-radius: 15px;
+    text-align: center;
+}
